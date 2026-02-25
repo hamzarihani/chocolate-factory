@@ -5,13 +5,11 @@ import { match as matchLocale } from "@formatjs/intl-localematcher"
 import Negotiator from "negotiator"
 
 function getLocale(request: NextRequest): string {
-  // 1. Check if locale is already in cookies
   const cookieLocale = request.cookies.get("NEXT_LOCALE")?.value
   if (cookieLocale && i18n.locales.includes(cookieLocale as any)) {
     return cookieLocale
   }
 
-  // 2. Negotiate from headers
   const negotiatorHeaders: Record<string, string> = {}
   request.headers.forEach((value, key) => (negotiatorHeaders[key] = value))
 
