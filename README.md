@@ -4,9 +4,21 @@ Welcome to **Maison du Chocolat**, where tradition meets artistry. This project 
 
 ## 🍫 Demo
 
-![Maison du Chocolat Hero](public/images/hero-chocolate.jpg)
+<p align="center">
+  <img src="public/screenshots/hero.png" width="800" alt="Maison du Chocolat Hero">
+</p>
 
-**Live URL:** [https://chocolat-factory.vercel.app](https://chocolat-factory.vercel.app) *(Placeholder)*
+### Interface Gallery
+
+| Collection Section | Our Story Section |
+| :---: | :---: |
+| ![Collection](public/screenshots/collection.png) | ![Story](public/screenshots/story.png) |
+
+| Admin Login |
+| :---: |
+| ![Admin Login](public/screenshots/admin-login.png) |
+
+**Live URL:** [https://chocolat-factory-v0.vercel.app](https://chocolat-factory-v0.vercel.app)
 
 ---
 
