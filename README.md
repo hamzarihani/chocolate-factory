@@ -18,7 +18,7 @@ Welcome to **Maison du Chocolat**, where tradition meets artistry. This project 
 | :---: |
 | ![Admin Login](public/screenshots/admin-login.png) |
 
-**Live URL:** [https://chocolat-factory-v0.vercel.app](https://chocolat-factory-v0.vercel.app)
+**Live URL:** [https://chocolat-factory.vercel.app](https://chocolat-factory.vercel.app)
 
 ---
 
