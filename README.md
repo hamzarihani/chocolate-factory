@@ -1,5 +1,9 @@
 # Maison du Chocolat | Artisanal Chocolate Factory
 
+**Live Demo:** [https://chocolat-factory.vercel.app](https://chocolat-factory.vercel.app)
+
+---
+
 Welcome to **Maison du Chocolat**, where tradition meets artistry. This project is a digital showcase for an artisanal chocolate factory founded in 1897, featuring handcrafted luxury chocolates made with the finest single-origin cacao.
 
 ## 🍫 Demo
@@ -17,8 +21,6 @@ Welcome to **Maison du Chocolat**, where tradition meets artistry. This project 
 | Admin Login |
 | :---: |
 | ![Admin Login](public/screenshots/admin-login.png) |
-
-**Live URL:** [https://chocolat-factory.vercel.app](https://chocolat-factory.vercel.app)
 
 ---
 
@@ -78,5 +80,7 @@ Welcome to **Maison du Chocolat**, where tradition meets artistry. This project 
 - `public/`: Static assets (images, icons).
 
 ---
+
+If you find this project helpful, please consider giving it a ⭐ on GitHub!
 
 Handcrafted with passion since 1897.
