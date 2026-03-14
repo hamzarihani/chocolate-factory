@@ -82,5 +82,3 @@ Welcome to **Maison du Chocolat**, where tradition meets artistry. This project 
 ---
 
 If you find this project helpful, please consider giving it a ⭐ on GitHub!
-
-Handcrafted with passion since 1897.
