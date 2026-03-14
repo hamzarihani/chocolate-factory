@@ -15,7 +15,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: 'Maison du Chocolat | Artisanal Chocolate Factory',
   description: 'Handcrafted luxury chocolates made with the finest ingredients. Discover our truffles, bonbons, bars, and specialty creations.',
-  generator: 'v0.app',
+  generator: 'chocolat-factory.app',
   icons: {
     icon: [
       {
